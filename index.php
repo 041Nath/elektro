@@ -1,4 +1,5 @@
 <?php
 echo "hello world";
-//Ini pas belajar utk Bangkit
+//Ini perubahan pertama- awal mulai belajar utk Bangkit
+//Ini perubahan kedua
 ?>
